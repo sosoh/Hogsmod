@@ -1,0 +1,16 @@
+[
+{
+  "modid": "hogsmod",
+  "name": "HogsMod",
+  "description": "HogsMod add all Harry Potter's world's stuff.",
+  "version": "${version}",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["sosoh"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
