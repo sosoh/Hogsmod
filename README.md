@@ -1,2 +1,0 @@
-# Hogsmod
-Hogsmod's Repository
